@@ -18,13 +18,15 @@
 
 <br/>
 
-Przeczytaj także w innych językach: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md), [![BR](/assets/flags/BR.png)**BR**](/README.brazilian-portuguese.md), [![RU](/assets/flags/RU.png)**RU**](/README.russian.md) [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR** i ![TR](/assets/flags/TR.png)**TR** w trakcie!)](#tłumaczenia)
+Przeczytaj także w innych językach: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md), [![BR](/assets/flags/BR.png)**BR**](/README.brazilian-portuguese.md), [![RU](/assets/flags/RU.png)**RU**](/README.russian.md), [![PL](/assets/flags/PL.png)**PL**](/README.polish.md), [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR** i ![TR](/assets/flags/TR.png)**TR** w trakcie!)](#tłumaczenia)
 
 <br/>
 
 ###### Zbudowane i utrzymywane przez nasz [Steering Committee](#steering-committee) oraz [Collaborators](#współpracownicy)
 
 # Najnowsze najlepsze praktyki i aktualności
+
+- **[![PL](/assets/flags/PL.png)PL] Polskie tłumaczenie:** Utalentowany Michał Biesiada właśnie opublikował [polskie tłumaczenie](/README.polish.md)
 
 - **✅ Nowa najlepsza praktyka:** 7.1: [Nie blokuj pętli zdarzeń](#7-wersja-robocza-najlepsze-praktyki-dotyczące-wydajności) od Keith Holliday
 
